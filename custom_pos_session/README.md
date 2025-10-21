@@ -37,5 +37,5 @@ This module extends the Odoo Point of Sale functionality with the following feat
 - `point_of_sale` module (Odoo 18.0)
 
 ## Author
+Moeed Nasir
 
-Your Company
